@@ -98,5 +98,5 @@ search:
 
 deploy:
   type: git
-  repository: http://wanghusw:w180033h@github.com/wanghusw/wanghusw.github.io.git
+  repository: git@github.com:wanghusw/wanghusw.github.io.git
   branch: master
