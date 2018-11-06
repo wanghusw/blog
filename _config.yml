@@ -7,7 +7,7 @@ title: WangHu's Blog
 subtitle: 阿虎的冥想盆 
 description: Live long and prosper.
 author: Wang Hu
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next-reloaded
 
 # 添加搜索
 algolia:
