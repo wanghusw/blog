@@ -64,4 +64,8 @@
   <div class="footer-custom">{#
   #}{{ theme.footer.custom_text }}{#
 #}</div>
+
+<div class="theme-info">
+  <span class="post-count">Total Words:{{ totalcount(site) }}</span>
+</div>
 {% endif %}
