@@ -54,3 +54,6 @@ categories:
 ### 推荐阅读：
 
 [「招投标二三事」系列（一）：社工机构招投标工作概述](http://wanghusw.top/2019/02/25/2019-02-25-AboutTender1/)
+
+[「招投标二三事」系列（二）：社工行业招投标流程全解读](http://wanghusw.top/2019/02/27/2019-02-27-AboutTender2/)
+
